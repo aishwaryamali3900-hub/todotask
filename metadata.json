@@ -1,0 +1,6 @@
+{
+  "name": "Clarity Workspace",
+  "description": "A calm, keyboard-first task management and focused execution workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
